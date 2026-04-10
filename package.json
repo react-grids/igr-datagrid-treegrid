@@ -1,7 +1,8 @@
 {
-  "name": "igr-fintech-sample",
+  "name": "igr-datagrid-treegrid",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://react-grids.github.io/igr-datagrid-treegrid/",
   "type": "module",
   "scripts": {
     "dev": "vite",
